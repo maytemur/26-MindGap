@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kullanıcı Adı"
+        android:textSize="24sp"
+        android:layout_margin="5dp"
+        android:textColor="#0D31DF"
+        android:id="@+id/recycler_row_kullanici_adi"
+
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Paylaşılan Mesaj"
+        android:textSize="18sp"
+        android:layout_margin="4dp"
+        android:textColor="#0D31DF"
+        android:id="@+id/recycler_row_paylasim_mesaji"
+
+        >
+
+    </TextView>
+    <ImageView
+        android:id="@+id/recycler_row_imageview"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:visibility="gone">
+
+    </ImageView>
+
+</LinearLayout>

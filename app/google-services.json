@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526099596772",
+    "project_id": "mindgap",
+    "storage_bucket": "mindgap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526099596772:android:1bd5a76a2fdb91c79df3f1",
+        "android_client_info": {
+          "package_name": "com.maytemur.mindgap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526099596772-re2vkdmdn3pa8imn1v1qlc5s9f0ec2ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0nTD_eyVqZGJuD3yndS6-sOmwdvaa57I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526099596772-re2vkdmdn3pa8imn1v1qlc5s9f0ec2ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
